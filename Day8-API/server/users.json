@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "email": "anu@123",
+      "address": "Mysuru"
+    },
+    {
+      "id": "2",
+      "name": "Anu",
+      "email": "alex@123",
+      "address": "Bengaluru"
+    },
+    {
+      "id": "3",
+      "name": "Tony",
+      "email": "tony@1234",
+      "address": "Dubai",
+      "website": "https://jsonplaceholder"
+    },
+    {
+      "id": "4",
+      "name": "Tony",
+      "email": "tony@1234",
+      "address": "Dubai"
+    }
+  ]
+}
