@@ -1,0 +1,5 @@
+if [ -f "fileoperations.txt" ]; then
+    echo "file exists"
+else 
+    echo "File does not exists"
+fi
